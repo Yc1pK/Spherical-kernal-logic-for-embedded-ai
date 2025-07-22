@@ -1,0 +1,6 @@
+[build]
+default = "spherical_kernel"
+
+[[bin]]
+name = "spherical_kernel"
+path = "spherical_kernel.c"
